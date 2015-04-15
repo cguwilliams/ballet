@@ -1,7 +1,8 @@
 #ReadMe for ballet study repository. Serves as a codebook for current data
 ###Some data characteristics
 **Sample size**: youths: N=20, adults: N=24
-- Among adults, novices: N=11; experts: N=13
+  - Among adults, novices: N=11; experts: N=13
+
 ###Variables in dataset
 1. PID - 10 digit identifier given by SurveyMonkey. Extremely useful for joining/merging  
 datasets
